@@ -1,4 +1,4 @@
-name: MyTest CI/CD2
+name: MyTest 
 
 on:
   push:
